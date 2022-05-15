@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RoboPanksNFT-full-mint-site/static/css/main.78e57ddf.css",
+    "main.js": "/RoboPanksNFT-full-mint-site/static/js/main.2b9f7303.js",
+    "static/media/parallax-bg.gif": "/RoboPanksNFT-full-mint-site/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/RoboPanksNFT-full-mint-site/index.html",
+    "main.78e57ddf.css.map": "/RoboPanksNFT-full-mint-site/static/css/main.78e57ddf.css.map",
+    "main.2b9f7303.js.map": "/RoboPanksNFT-full-mint-site/static/js/main.2b9f7303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e57ddf.css",
+    "static/js/main.2b9f7303.js"
+  ]
+}
